@@ -1,0 +1,293 @@
+Video_ID,Owner_User_ID,View_Count,Upload_Date,Title,Artist,Type,State
+V-1,U-1,4,2013/10/13,V-1,Rebecca Walker,Personal-Family-Videos,California
+V_2,U-2,2,2014/01/16,V-2,Paula Moreno,Personal-Family-Videos,California
+V_3,U-3,5,2013/09/15,V-3,Robin Knight,Personal-Family-Videos,New York
+V_4,U-4,3,2014/11/22,V-4,Johnny West,Personal-Family-Videos,Texas
+V_5,U-5,4,2013/03/15,V-5,Denise Murphy,Personal-Family-Videos,Texas
+V_6,U-6,4,2014/05/05,V-6,Lori Evans,Personal-Family-Videos,Missouri
+V_7,U-7,2,2014/10/02,V-7,Martha Dean,Personal-Family-Videos,California
+V_8,U-8,1,2013/08/08,V-8,Shirley Simmons,Personal-Family-Videos,Pennsylvania
+V_9,U-9,5,2013/05/18,V-9,Jean Hicks,Personal-Family-Videos,District of Columbia
+V_10,U-10,4,2014/08/19,V-10,Carlos Rodriguez,Personal-Family-Videos,California
+V_11,U-11,1,2013/09/02,V-11,Douglas Miller,Personal-Family-Videos,Connecticut
+V_12,U-12,3,2013/08/10,V-12,Phillip Martinez,Personal-Family-Videos,New York
+V_13,U-13,2,2014/08/14,V-13,Cheryl Cunningham,Personal-Family-Videos,Texas
+V_14,U-14,2,2014/04/12,V-14,Cheryl Thompson,Personal-Family-Videos,California
+V_15,U-15,1,2014/10/23,V-15,Jeremy Murphy,Personal-Family-Videos,Pennsylvania
+V_16,U-16,2,2013/11/12,V-16,Kelly Stephens,Personal-Family-Videos,Florida
+V_17,U-17,3,2013/07/19,V-17,Sharon Tucker,Personal-Family-Videos,Florida
+V_18,U-18,0,2014/05/19,V-18,Mark Spencer,Personal-Family-Videos,California
+V_19,U-19,2,2014/01/06,V-19,Steve Harris,Personal-Family-Videos,New York
+V_20,U-20,1,2013/09/10,V-20,Keith Gardner,Personal-Family-Videos,Florida
+V_21,U-21,2,2014/08/12,V-21,Aaron Carter,Personal-Family-Videos,Texas
+V_22,U-22,2,2013/04/25,V-22,Timothy Frazier,Personal-Family-Videos,Nevada
+V_23,U-23,3,2014/02/15,V-23,Kathleen Tucker,Personal-Family-Videos,Virginia
+V_24,U-24,3,2013/08/13,V-24,Karen Wheeler,Personal-Family-Videos,Arizona
+V_25,U-25,2,2014/01/22,V-25,Harry Tucker,Personal-Family-Videos,New York
+V_26,U-26,2,2013/09/13,V-26,Stephanie Price,Personal-Family-Videos,District of Columbia
+V_27,U-27,1,2013/08/09,V-27,Nancy Lane,Personal-Family-Videos,Nevada
+V-28,U-28,4,2013/05/29,V-28,Carlos Russell,Personal-Family-Videos,Idaho
+V-29,U-29,2,2013/03/13,V-29,Jeffrey Thomas,Personal-Family-Videos,Oregon
+V-30,U-30,4,2013/08/16,V-30,Jeffrey Hudson,Personal-Family-Videos,New York
+V-31,U-1,4,2013/06/07,V-31,Dorothy Matthews,Documentary,Virginia
+V-32,U-2,0,2013/03/12,V-32,Shirley Burke,Documentary,Alaska
+V-33,U-3,3,2013/06/28,V-33,Alice Allen,Documentary,Tennessee
+V-34,U-4,3,2013/03/20,V-34,Steven Castillo,Documentary,New York
+V-35,U-5,29,2013/10/08,V-35,Matthew Dean,Documentary,Texas
+V-36,U-6,23,2013/10/04,V-36,Kathleen Tucker,Documentary,Texas
+V-37,U-7,27,2014/10/29,V-37,Karen Wheeler,Documentary,Texas
+V-38,U-8,5,2013/09/09,V-38,Harry Tucker,Documentary,Ohio
+V-39,U-9,3,2014/09/04,V-39,Stephanie Price,Documentary,Oklahoma
+V-40,U-10,19,2013/03/22,V-40,Nancy Lane,Documentary,California
+V-41,U-11,4,2013/07/03,V-41,Carlos Russell,Documentary,California
+V-42,U-12,20,2013/09/20,V-42,Jeffrey Thomas,Documentary,North Dakota
+V-43,U-13,4,2014/03/02,V-43,Jeffrey Hudson,Documentary,Tennessee
+V-44,U-14,17,2013/11/08,V-44,Dorothy Matthews,Documentary,Connecticut
+V-45,U-15,21,2013/06/28,V-45,Shirley Burke,Documentary,Texas
+V-46,U-16,0,2013/07/01,V-46,Alice Allen,Documentary,Georgia
+V-47,U-17,28,2013/04/29,V-47,Steven Castillo,Documentary,Utah
+V-48,U-18,16,2014/04/11,V-48,James Benning ,Documentary,Florida
+V-49,U-19,12,2014/08/20,V-49,Alan Berliner,Documentary,Iowa
+V-50,U-20,29,2013/07/30,V-50,Antonio Hayes,Documentary,Texas
+V-51,U-21,14,2013/04/02,V-51,Natural Geography,Documentary,Mississippi
+V-52,U-22,17,2013/11/29,V-52,Joe Berlinger,Documentary,Iowa
+V-53,U-23,9,2014/08/05,V-53,Bruce Sinofsky,Documentary,Pennsylvania
+V-54,U-24,9,2014/02/16,V-54,Stephanie Peterson,Documentary,California
+V-55,U-25,30,2013/03/11,V-55,Marilyn Cruz,Documentary,Florida
+V-56,U-26,12,2013/08/05,V-56,Mark Robertson,Documentary,New York
+V-57,U-27,8,2014/03/09,V-57,William Porter,Documentary,District of Columbia
+V-58,U-28,1,2014/08/13,V-58,Deborah Montgomery,Documentary,Iowa
+V-59,U-29,8,2014/05/30,V-59,Jason Hernandez,Documentary,Massachusetts
+V-60,U-30,26,2014/10/25,V-60,Joyce Little,Documentary,Florida
+V-61,U-1,5,2013/06/02,V-61,Lois Morgan,Music-Videos,Florida
+V-62,U-2,0,2013/12/29,V-62,Joe Cocker,Music-Videos,Texas
+V-63,U-3,3,2014/04/08,V-63,Stevie Nicks,Music-Videos,Texas
+V-64,U-4,25,2013/11/11,V-64,Steven Tyler,Music-Videos,Ohio
+V-65,U-5,12,2014/01/10,V-65,Mary J. Blige,Music-Videos,California
+V-66,U-6,6,2014/10/14,V-66,Bruce Springsteen,Music-Videos,Tennessee
+V-67,U-7,15,2013/05/27,V-67,The Who,Music-Videos,Texas
+V-68,U-8,17,2013/03/17,V-68,Fleetwood Mac,Music-Videos,Louisiana
+V-69,U-9,8,2013/05/21,V-69,Stevie Nicks,Music-Videos,California
+V-70,U-10,5,2014/02/02,V-70,Roger Daltrey,Music-Videos,Colorado
+V-71,U-11,25,2013/05/21,V-71,Smokey Robinson,Music-Videos,Connecticut
+V-72,U-12,29,2013/12/26,V-72,Robert Plant,Music-Videos,Michigan
+V-73,U-13,3,2013/07/23,V-73,Mick Jagger,Music-Videos,Texas
+V-74,U-14,15,2014/01/04,V-74,Tina Turner,Music-Videos,Florida
+V-75,U-15,21,2013/05/21,V-75,Freddie Mercury,Music-Videos,New Hampshire
+V-76,U-16,12,2013/12/20,V-76,Bob Marley,Music-Videos,Illinois
+V-77,U-17,17,2014/03/28,V-77,Johnny Cash,Music-Videos,Ohio
+V-78,U-18,11,2013/07/14,V-78,Etta James,Music-Videos,Florida
+V-79,U-19,2,2013/09/09,V-79,David Bowie,Music-Videos,Florida
+V-80,U-20,1,2014/11/04,V-80,Van Morrison,Music-Videos,Arkansas
+V-81,U-21,25,2013/11/06,V-81,Michael Jackson,Music-Videos,Florida
+V-82,U-22,25,2014/03/28,V-82,Bruce Springsteen,Music-Videos,California
+V-83,U-23,26,2013/11/08,V-83,The Who,Music-Videos,Arizona
+V-84,U-24,9,2014/08/17,V-84,Fleetwood Mac,Music-Videos,Florida
+V-85,U-25,9,2013/05/15,V-85,Stevie Nicks,Music-Videos,Pennsylvania
+V-86,U-26,25,2014/07/01,V-86,Roger Daltrey,Music-Videos,Washington
+V-87,U-27,1,2013/11/20,V-87,Paul Rodgers,Music-Videos,New York
+V-88,U-28,21,2013/11/02,V-88,Mavis Staples,Music-Videos,Florida
+V-89,U-29,2,2013/03/26,V-89,Eric Burdon,Music-Videos,Florida
+V-90,U-30,27,2013/10/31,V-90,Christina Aguilera,Music-Videos,California
+V-91,U-1,3,2014/08/17,V-91,Jimmy Ruiz,Personal-Family-Videos,Georgia
+V-92,U-2,1,2014/08/17,V-92,Joseph Stewart,Personal-Family-Videos,New York
+V-93,U-3,3,2014/07/06,V-93,Benjamin Kennedy,Personal-Family-Videos,Oklahoma
+V-94,U-4,3,2014/09/18,V-94,Louise Reed,Personal-Family-Videos,Virginia
+V-95,U-5,3,2014/10/26,V-95,Samuel Austin,Personal-Family-Videos,Texas
+V-96,U-6,4,2013/04/21,V-96,Howard Murphy,Personal-Family-Videos,Texas
+V-97,U-7,0,2013/12/02,V-97,Benjamin Berry,Personal-Family-Videos,Arkansas
+V-98,U-8,1,2013/12/03,V-98,Mildred Elliott,Personal-Family-Videos,New York
+V-99,U-9,2,2013/08/22,V-99,Roy Gonzalez,Personal-Family-Videos,California
+V-100,U-10,2,2014/08/09,V-100,Joyce Greene,Personal-Family-Videos,Arkansas
+V-101,U-11,3,2014/10/08,V-101,Rebecca Simpson,Personal-Family-Videos,Alaska
+V-102,U-12,4,2014/04/28,V-102,Kathleen Morrison,Personal-Family-Videos,Illinois
+V-103,U-13,1,2014/07/31,V-103,Jennifer Sullivan,Personal-Family-Videos,Louisiana
+V-104,U-14,4,2014/08/22,V-104,David Allen,Personal-Family-Videos,Florida
+V-105,U-15,5,2014/09/12,V-105,Ruby Fox,Personal-Family-Videos,Florida
+V-106,U-16,1,2013/10/26,V-106,Sara Castillo,Personal-Family-Videos,Kansas
+V-107,U-17,2,2014/06/17,V-107,Mary Stanley,Personal-Family-Videos,Tennessee
+V-108,U-18,3,2013/11/22,V-108,Robert Webb,Personal-Family-Videos,California
+V-109,U-19,1,2014/07/12,V-109,Henry Rogers,Personal-Family-Videos,Texas
+V-110,U-20,3,2014/03/13,V-110,Paula Nichols,Personal-Family-Videos,Texas
+V-111,U-21,2,2013/06/26,V-111,John Bryant,Personal-Family-Videos,Pennsylvania
+V-112,U-22,4,2013/12/11,V-112,James Martinez,Personal-Family-Videos,California
+V-113,U-23,0,2013/12/18,V-113,Catherine Ferguson,Personal-Family-Videos,Pennsylvania
+V-114,U-24,1,2013/10/24,V-114,Ernest Adams,Personal-Family-Videos,Florida
+V-115,U-25,0,2013/06/01,V-115,Heather Ryan,Personal-Family-Videos,Texas
+V-116,U-26,2,2013/11/26,V-116,Sandra Gomez,Personal-Family-Videos,California
+V-117,U-27,2,2014/01/21,V-117,Judy Simmons,Personal-Family-Videos,District of Columbia
+V-118,U-28,0,2014/11/19,V-118,James Evans,Personal-Family-Videos,Florida
+V-119,U-29,3,2014/05/15,V-119,Heather Castillo,Personal-Family-Videos,Kansas
+V-120,U-30,1,2013/10/15,V-120,Willie Ward,Personal-Family-Videos,Ohio
+V-121,U-1,13,2014/01/02,V-121,Nick Broomfield,Documentary,California
+V-122,U-2,13,2013/04/27,V-122,Luis Bunuel,Documentary,South Dakota
+V-123,U-3,28,2013/10/11,V-123,Ken Burns,Documentary,Florida
+V-124,U-4,20,2013/04/02,V-124,Ric Burns,Documentary,Idaho
+V-125,U-5,25,2013/06/16,V-125,Nanette Burstein,Documentary,Michigan
+V-126,U-6,7,2013/11/02,V-126,Frank Capra,Documentary,Mississippi
+V-127,U-7,24,2013/11/24,V-127,Christine Choy,Documentary,Massachusetts
+V-128,U-8,2,2014/02/04,V-128,Jem Cohen,Documentary,Kansas
+V-129,U-9,19,2013/08/06,V-129,Jacques-Yves Cousteau,Documentary,New York
+V-130,U-10,12,2014/05/10,V-130,Eduardo Coutinho,Documentary,Maryland
+V-131,U-11,2,2013/04/19,V-131,Paul Cowan,Documentary,Minnesota
+V-132,U-12,8,2013/11/16,V-132,R.J. Cutler,Documentary,California
+V-133,U-13,17,2014/05/29,V-133,Harold Kelly,Documentary,Texas
+V-134,U-14,10,2014/07/31,V-134,Johnny Adams,Documentary,Iowa
+V-135,U-15,6,2013/04/25,V-135,William Chavez,Documentary,Pennsylvania
+V-136,U-16,16,2014/08/31,V-136,Walter Meyer,Documentary,Pennsylvania
+V-137,U-17,15,2013/04/09,V-137,Harry Williams,Documentary,Virginia
+V-138,U-18,8,2013/06/27,V-138,Rebecca Gardner,Documentary,California
+V-139,U-19,3,2013/06/28,V-139,Lawrence Reynolds,Documentary,Arizona
+V-140,U-20,24,2014/11/01,V-140,Louise Reed,Documentary,Georgia
+V-141,U-21,1,2013/07/09,V-141,Roy Alexander,Documentary,Texas
+V-142,U-22,23,2014/01/20,V-142,Harold Kelly,Documentary,Washington
+V-143,U-23,10,2014/04/24,V-143,Steve Burton,Documentary,Texas
+V-144,U-24,11,2013/03/03,V-144,Bing Wang,Documentary,Virginia
+V-145,U-25,12,2014/07/25,V-145,Ondi Timoner,Documentary,Mississippi
+V-146,U-26,4,2014/04/15,V-146,BBC News,Documentary,Missouri
+V-147,U-27,1,2014/08/09,V-147,Natural Geography,Documentary,Connecticut
+V-148,U-28,9,2014/09/30,V-148,Natural Geography,Documentary,Illinois
+V-149,U-29,20,2014/11/19,V-149,Deborah Stratman,Documentary,New York
+V-150,U-30,3,2013/08/17,V-150,Willie Reed,Documentary,West Virginia
+V-151,U-1,5,2014/11/05,V-151,Beyonce,Music-Videos,Louisiana
+V-152,U-2,1,2013/09/10,V-152,Lady Gaga,Music-Videos,California
+V-153,U-3,4,2013/04/07,V-153,Katy Perry,Music-Videos,Ohio
+V-154,U-4,23,2013/11/17,V-154,Demi Lovato,Music-Videos,Pennsylvania
+V-155,U-5,28,2013/03/11,V-155,Taylor Swift,Music-Videos,South Carolina
+V-156,U-6,21,2014/11/25,V-156,Beyonce,Music-Videos,Kentucky
+V-157,U-7,20,2014/08/10,V-157,Beyonce,Music-Videos,California
+V-158,U-8,4,2013/08/03,V-158,Fleetwood Mac,Music-Videos,Georgia
+V-159,U-9,13,2013/07/11,V-159,Eminem,Music-Videos,Ohio
+V-160,U-10,30,2014/07/12,V-160,Usher,Music-Videos,New York
+V-161,U-11,20,2014/04/16,V-161,Cold Play,Music-Videos,California
+V-162,U-12,6,2014/09/24,V-162,Justin Timberlake,Music-Videos,California
+V-163,U-13,20,2014/01/08,V-163,Bruce Springsteen,Music-Videos,Maryland
+V-164,U-14,27,2013/11/02,V-164,Elton John,Music-Videos,Nevada
+V-165,U-15,7,2014/01/18,V-165,Fleetwood Mac,Music-Videos,Ohio
+V-166,U-16,14,2013/03/08,V-166,Cold Play,Music-Videos,Massachusetts
+V-167,U-17,23,2013/06/07,V-167,Eminem,Music-Videos,Illinois
+V-168,U-18,29,2014/09/06,V-168,Bob Marley,Music-Videos,Indiana
+V-169,U-19,24,2013/06/16,V-169,Led Zeppelin,Music-Videos,Michigan
+V-170,U-20,20,2014/09/24,V-170,Kid Rock,Music-Videos,New York
+V-171,U-21,26,2013/05/06,V-171,Dan Deacon,Music-Videos,Louisiana
+V-172,U-22,14,2013/05/03,V-172,Matt Taibbi,Music-Videos,Michigan
+V-173,U-23,12,2014/09/25,V-173,Neil Young,Music-Videos,Oklahoma
+V-174,U-24,1,2014/05/28,V-174,Elton John,Music-Videos,California
+V-175,U-25,1,2014/02/20,V-175,Jeff Buckley,Music-Videos,Florida
+V-176,U-26,7,2014/10/19,V-176,Chuck Berry,Music-Videos,Hawaii
+V-177,U-27,28,2014/03/16,V-177,Joni Mitchell,Music-Videos,New York
+V-178,U-28,11,2013/04/17,V-178,George Jones,Music-Videos,Pennsylvania
+V-179,U-29,14,2013/04/21,V-179,Bobby Bland,Music-Videos,Minnesota
+V-180,U-30,10,2014/06/09,V-180,Kurt Cobain,Music-Videos,Virginia
+V-181,U-1,5,2014/09/02,V-181,Lillian Arnold,Personal-Family-Videos,New York
+V-182,U-2,3,2014/11/11,V-182,Susan Ford,Personal-Family-Videos,Virginia
+V-183,U-3,3,2013/12/02,V-183,Judith Fox,Personal-Family-Videos,California
+V-184,U-4,5,2014/08/24,V-184,Jose Jenkins,Personal-Family-Videos,California
+V-185,U-5,5,2014/01/26,V-185,Albert Foster,Personal-Family-Videos,California
+V-186,U-6,2,2013/03/07,V-186,Timothy Walker,Personal-Family-Videos,Texas
+V-187,U-7,5,2014/04/11,V-187,Marie Cunningham,Personal-Family-Videos,New York
+V-188,U-8,2,2013/11/09,V-188,Walter Williamson,Personal-Family-Videos,Pennsylvania
+V-189,U-9,1,2013/06/29,V-189,Judith Ray,Personal-Family-Videos,Ohio
+V-190,U-10,2,2013/04/30,V-190,Earl Smith,Personal-Family-Videos,Ohio
+V-191,U-11,3,2013/03/11,V-191,Earl Romero,Personal-Family-Videos,Arizona
+V-192,U-12,1,2013/09/09,V-192,Richard Owens,Personal-Family-Videos,District of Columbia
+V-193,U-13,2,2013/11/18,V-193,Jeremy Rogers,Personal-Family-Videos,Texas
+V-194,U-14,2,2013/06/06,V-194,Irene Price,Personal-Family-Videos,Texas
+V-195,U-15,1,2014/03/14,V-195,Tammy Gomez,Personal-Family-Videos,Texas
+V-196,U-16,4,2013/08/26,V-196,Cheryl Black,Personal-Family-Videos,Kentucky
+V-197,U-1,0,2013/04/05,V-197,Victor Ellis,Music-Videos,Georgia
+V-198,U-2,4,2014/09/21,V-198,Christina Aguilera,Music-Videos,Nevada
+V-199,U-3,1,2013/08/09,V-199,Rod Stewart,Music-Videos,California
+V-200,U-4,11,2013/08/19,V-200,Lou Reed,Music-Videos,California
+V-201,U-5,25,2013/08/27,V-201,Celine Dion,Music-Videos,California
+V-202,U-6,3,2013/05/25,V-202,Axl Rose,Music-Videos,New Jersey
+V-203,U-7,27,2014/03/19,V-203,David Ruffin,Music-Videos,California
+V-204,U-8,24,2014/06/12,V-204,Frankie Valli,Music-Videos,Utah
+V-205,U-9,20,2014/09/11,V-205,Dolly Parton,Music-Videos,Wisconsin
+V-206,U-10,8,2013/07/06,V-206,Mariah Carey,Music-Videos,West Virginia
+V-207,U-11,20,2013/10/08,V-207,Pink,Music-Videos,Ohio
+V-208,U-12,2,2014/02/04,V-208,Rihanna,Music-Videos,California
+V-209,U-13,1,2013/03/31,V-209,Taylor Swift,Music-Videos,Florida
+V-210,U-14,9,2014/06/07,V-210,Shakira,Music-Videos,Connecticut
+V-211,U-15,7,2013/12/22,V-211,Eminem,Music-Videos,Kentucky
+V-212,U-16,13,2014/05/10,V-212,Cold Play,Music-Videos,Michigan
+V-213,U-15,4,2014/04/26,V-213,Christopher Long,Personal-Family-Videos,California
+V-214,U-16,4,2014/04/10,V-214,Stephen Cunningham,Personal-Family-Videos,Wisconsin
+V-215,U-17,4,2013/05/11,V-215,Amy Taylor,Personal-Family-Videos,California
+V-216,U-18,2,2014/04/08,V-216,Paula Rose,Personal-Family-Videos,Virginia
+V-217,U-19,4,2014/03/14,V-217,Frank Wilson,Personal-Family-Videos,Tennessee
+V-218,U-20,3,2013/08/30,V-218,Ralph Wagner,Personal-Family-Videos,Florida
+V-219,U-21,3,2013/07/26,V-219,Sarah Nguyen,Personal-Family-Videos,District of Columbia
+V-220,U-22,3,2014/02/11,V-220,Roger Burton,Personal-Family-Videos,District of Columbia
+V-221,U-23,2,2014/05/07,V-221,Clarence Henry,Personal-Family-Videos,Wisconsin
+V-222,U-24,4,2014/08/29,V-222,Emily Gray,Personal-Family-Videos,Arizona
+V-223,U-25,5,2013/03/31,V-223,Johnny Adams,Personal-Family-Videos,Hawaii
+V-224,U-26,1,2014/04/12,V-224,William Chavez,Personal-Family-Videos,Iowa
+V-225,U-27,2,2013/04/07,V-225,Walter Meyer,Personal-Family-Videos,Alabama
+V-226,U-28,3,2013/11/15,V-226,Harry Williams,Personal-Family-Videos,Texas
+V-227,U-29,3,2014/10/24,V-227,Rebecca Gardner,Personal-Family-Videos,Louisiana
+V-228,U-30,4,2013/07/16,V-228,Lawrence Reynolds,Personal-Family-Videos,Ohio
+V-229,U-15,23,2014/08/22,V-229,Louise Reed,Music-Videos,Alaska
+V-230,U-16,26,2014/04/15,V-230,Roy Alexander,Music-Videos,Virginia
+V-231,U-17,23,2014/02/28,V-231,Harold Kelly,Music-Videos,Washington
+V-232,U-18,18,2014/06/26,V-232,Steve Burton,Music-Videos,Indiana
+V-233,U-19,2,2013/05/29,V-233,Bruce Springsteen,Music-Videos,Virginia
+V-234,U-20,10,2013/10/21,V-234,Shakira,Music-Videos,Florida
+V-235,U-21,6,2014/04/20,V-235,Usher,Music-Videos,Alaska
+V-236,U-22,1,2014/04/02,V-236,Cold Play,Music-Videos,Texas
+V-237,U-23,2,2014/03/09,V-237,Justin Timberlake,Music-Videos,Tennessee
+V-238,U-24,14,2014/04/28,V-238,Bruce Springsteen,Music-Videos,California
+V-239,U-25,29,2013/09/23,V-239,Fleetwood Mac,Music-Videos,California
+V-240,U-26,10,2013/10/01,V-240,Eminem,Music-Videos,Indiana
+V-241,U-27,16,2013/04/23,V-241,Pitbull,Music-Videos,Pennsylvania
+V-242,U-28,5,2013/12/01,V-242,Adele,Music-Videos,Maryland
+V-243,U-29,3,2014/08/25,V-243,Justin Timberlake,Music-Videos,Texas
+V-244,U-30,6,2014/03/22,V-244,Justin Bieber,Music-Videos,California
+V-245,U-1,4,2014/05/08,V-245,Frank Gilbert,Personal-Family-Videos,Oklahoma
+V-246,U-2,1,2013/09/24,V-246,Brian Martinez,Personal-Family-Videos,Louisiana
+V-247,U-3,1,2013/04/30,V-247,Louise Kim,Personal-Family-Videos,Minnesota
+V-248,U-4,4,2014/05/22,V-248,Christopher Daniels,Personal-Family-Videos,Florida
+V-249,U-5,0,2014/10/17,V-249,Douglas Wright,Personal-Family-Videos,Missouri
+V-250,U-6,3,2013/05/31,V-250,Frances Rivera,Personal-Family-Videos,North Dakota
+V-251,U-7,0,2013/08/02,V-251,Diane Gordon,Personal-Family-Videos,Colorado
+V-252,U-8,1,2013/12/15,V-252,Jimmy Matthews,Personal-Family-Videos,Louisiana
+V-253,U-9,2,2013/07/05,V-253,Jimmy Burke,Personal-Family-Videos,Texas
+V-254,U-10,3,2013/05/09,V-254,Shirley Wagner,Personal-Family-Videos,Kentucky
+V-255,U-11,1,2013/12/15,V-255,Justin Johnson,Personal-Family-Videos,New York
+V-256,U-12,1,2013/12/01,V-256,Lois Bradley,Personal-Family-Videos,Louisiana
+V-257,U-13,1,2013/03/21,V-257,Tammy Larson,Personal-Family-Videos,Texas
+V-258,U-14,2,2013/03/11,V-258,Rachel Graham,Personal-Family-Videos,Ohio
+V-259,U-15,5,2014/02/05,V-259,Susan Sullivan,Personal-Family-Videos,Texas
+V-260,U-16,3,2013/07/02,V-260,James Young,Personal-Family-Videos,Arizona
+V-261,U-1,3,2013/09/18,V-261,Diana Hanson,Music-Videos,Texas
+V-262,U-2,2,2014/04/08,V-262,Carolyn Robinson,Music-Videos,Nevada
+V-263,U-3,1,2014/01/18,V-263,Lisa Collins,Music-Videos,Tennessee
+V-264,U-4,29,2013/12/03,V-264,Eric Mendoza,Music-Videos,South Carolina
+V-265,U-5,23,2013/12/08,V-265,Shawn Cole,Music-Videos,California
+V-266,U-6,27,2014/08/07,V-266,Bruce Boyd,Music-Videos,Ohio
+V-267,U-7,5,2014/04/13,V-267,Emily Wilson,Music-Videos,Utah
+V-268,U-8,22,2013/04/13,V-268,Ernest Watkins,Music-Videos,Ohio
+V-269,U-9,7,2014/04/19,V-269,Louise Robinson,Music-Videos,California
+V-270,U-10,13,2014/08/15,V-270,Andrea Russell,Music-Videos,New York
+V-271,U-11,0,2013/04/23,V-271,Gloria Flores,Music-Videos,Virginia
+V-272,U-12,7,2014/10/18,V-272,Ryan Black,Music-Videos,District of Columbia
+V-273,U-13,27,2014/08/15,V-273,Kathryn Grant,Music-Videos,Texas
+V-274,U-14,27,2013/08/29,V-274,Christina Gonzales,Music-Videos,California
+V-275,U-15,19,2013/04/16,V-275,Denise Sanchez,Music-Videos,New Jersey
+V-276,U-16,4,2014/10/16,V-276,Wanda Martinez,Music-Videos,California
+V-277,U-1,11,2014/04/15,V-277,Tina Mccoy,Documentary,Wisconsin
+V-278,U-2,30,2014/08/01,V-278,Edward Banks,Documentary,Pennsylvania
+V-279,U-3,10,2013/12/18,V-279,Nicholas Harris,Documentary,Connecticut
+V-280,U-4,6,2014/07/26,V-280,Brian Moreno,Documentary,Illinois
+V-281,U-5,0,2014/06/22,V-281,Deborah Wallace,Documentary,Wisconsin
+V-282,U-6,2,2014/05/03,V-282,Brandon Lee,Documentary,Ohio
+V-283,U-7,8,2013/11/20,V-283,Janet Patterson,Documentary,Texas
+V-284,U-8,9,2014/02/02,V-284,Gerald Fox,Documentary,Minnesota
+V-285,U-9,7,2013/03/21,V-285,Helen Reynolds,Documentary,New Jersey
+V-286,U-10,14,2014/08/22,V-286,Randy Harper,Documentary,Alabama
+V-287,U-11,6,2014/03/05,V-287,Kenneth Pierce,Documentary,Indiana
+V-288,U-12,17,2013/09/05,V-288,Edward Ford,Documentary,Texas
+V-289,U-13,15,2013/08/22,V-289,Bobby Hudson,Documentary,Colorado
+V-290,U-14,13,2014/06/01,V-290,Margaret Welch,Documentary,Nebraska
+V-291,U-15,2,2013/04/25,V-291,Joan Perkins,Documentary,District of Columbia
+V-292,U-16,14,2014/09/19,V-292,Lawrence Frazier,Documentary,Virginia
