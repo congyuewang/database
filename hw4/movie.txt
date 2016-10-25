@@ -1,0 +1,16 @@
+Movie_ID	Title	Director	Writer	Genre	Release_Date	Runtime
+M1	The Shawshank Redemption	Frank Darabont	"Stephen King, Frank Darabont"	Crime Drama	1994-10-14	142
+M2	The Godfather	Francis Ford Coppola	"Mario Puzo, Francis Ford Coppola"	Crime Drama	1948-03-24	195
+M3	Inception	Christopher Nolan	Christopher Nolan	Action Mystery Sci-Fi Thriller	2008-10-19	148
+M4	Pulp Fiction	Quentin Tarantino	"Quentin Tarantino, Roger Avary"	Crime Drama	1994-10-14	154
+M5	Schindler's List	Steven Spielberg	"Thomas Keneally, Steven Zaillian"	Biography Drama History	1994-02-04	195
+M6	The Dark Knight	Christopher Nolan	"Jonathan Nolan, Christopher Nolan"	Action Crime Drama	2008-10-18	152
+M7	One Flew Over the Cuckoo's Nest	Milos Forman	"Lawrence Hauben, Bo Goldman"	Drama	1975-11-21	133
+M8	The Lord of the Rings: The Two Towers	Peter Jackson	"J.R.R. Tolkien, Fran Walsh"	Adventure Fantasy	2002-12-18	179
+M9	Goodfellas	Martin Scorsese	Nicholas Pileggi	Biography Crime Drama	1990-09-21	146
+M10	The Matrix	"Andy Wachowski, Lana Wachowski"	"Andy Wachowski, Lana Wachowski"	Action Sci-Fi	1990-03-31	136
+M11	Inglourious Basterds	"Quentin Tarantino, Eli Roth"	Quentin Tarantino	Adventure Drama War	2008-08-21	153
+M12	Toy Story	John Lasseter	"John Lasseter, Pete Docter"	Animation Adventure Comedy Family Fantasy	1995-11-22	81
+M13	The Treasure of the Sierra Madre	John Huston	"John Huston, B. Traven"	Action Adventure Drama	1948-01-24	126
+M14	Indiana Jones and the Last Crusade	Steven Spielberg	"Jeffrey Boam, George Lucas"	Action Adventure	1995-05-24	127
+M15	Some Like It Hot	Billy Wilder	"Billy Wilder, I.A.L. Diamond"	Comedy	1948-03-29	120

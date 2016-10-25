@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <Movie_ID>M1</Movie_ID>
+        <Title>The Shawshank Redemption</Title>
+        <Director>Frank Darabont</Director>
+        <Writer>Stephen King</Writer>
+        <Writer>Frank Darabont</Writer>
+        <Genre>Crime Drama</Genre>
+        <Release_Date>1994-10-14</Release_Date>
+        <Runtime>142</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M2</Movie_ID>
+        <Title>The Godfather</Title>
+        <Director>Francis Ford Coppola</Director>
+        <Writer>Mario Puzo</Writer>
+        <Writer>Francis Ford Coppola</Writer>
+        <Genre>Crime Drama</Genre>
+        <Release_Date>1948-03-24</Release_Date>
+        <Runtime>195</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M3</Movie_ID>
+        <Title>Inception</Title>
+        <Director>Christopher Nolan</Director>
+        <Writer>Christopher Nolan</Writer>
+        <Genre>Action Mystery Sci-Fi Thriller</Genre>
+        <Release_Date>2008-10-19</Release_Date>
+        <Runtime>148</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M4</Movie_ID>
+        <Title>Pulp Fiction</Title>
+        <Director>Quentin Tarantino</Director>
+        <Writer>Quentin Tarantino</Writer>
+        <Writer>Roger Avary</Writer>
+        <Genre>Crime Drama</Genre>
+        <Release_Date>1994-10-14</Release_Date>
+        <Runtime>154</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M5</Movie_ID>
+        <Title>Schindler's List</Title>
+        <Director>Steven Spielberg</Director>
+        <Writer>Thomas Keneally</Writer>
+        <Writer>Steven Zaillian</Writer>
+        <Genre>Biography Drama History</Genre>
+        <Release_Date>1994-02-04</Release_Date>
+        <Runtime>195</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M6</Movie_ID>
+        <Title>The Dark Knight</Title>
+        <Director>Christopher Nolan</Director>
+        <Writer>Jonathan Nolan</Writer>
+        <Writer>Christopher Nolan</Writer>
+        <Genre>Action Crime Drama</Genre>
+        <Release_Date>2008-10-18</Release_Date>
+        <Runtime>152</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M7</Movie_ID>
+        <Title>One Flew Over the Cuckoo's Nest</Title>
+        <Director>Milos Forman</Director>
+        <Writer>Lawrence Hauben</Writer>
+        <Writer>Bo Goldman</Writer>
+        <Genre>Drama</Genre>
+        <Release_Date>1975-11-21</Release_Date>
+        <Runtime>133</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M8</Movie_ID>
+        <Title>The Lord of the Rings: The Two Towers</Title>
+        <Director>Peter Jackson</Director>
+        <Writer>J.R.R. Tolkien</Writer>
+        <Writer>Fran Walsh</Writer>
+        <Genre>Adventure Fantasy</Genre>
+        <Release_Date>2002-12-18</Release_Date>
+        <Runtime>179</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M9</Movie_ID>
+        <Title>Goodfellas</Title>
+        <Director>Martin Scorsese</Director>
+        <Writer>Nicholas Pileggi</Writer>
+        <Genre>Biography Crime Drama</Genre>
+        <Release_Date>1990-09-21</Release_Date>
+        <Runtime>146</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M10</Movie_ID>
+        <Title>The Matrix</Title>
+        <Director>"Andy Wachowski, Lana Wachowski"</Director>
+        <Writer>Andy Wachowski</Writer>
+        <Writer>Lana Wachowski</Writer>
+        <Genre>Action Sci-Fi</Genre>
+        <Release_Date>1990-03-31</Release_Date>
+        <Runtime>136</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M11</Movie_ID>
+        <Title>Inglourious Basterds</Title>
+        <Director>"Quentin Tarantino, Eli Roth"</Director>
+        <Writer>Quentin Tarantino</Writer>
+        <Genre>Adventure Drama War</Genre>
+        <Release_Date>2008-08-21</Release_Date>
+        <Runtime>153</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M12</Movie_ID>
+        <Title>Toy Story</Title>
+        <Director>John Lasseter</Director>
+        <Writer>John Lasseter</Writer>
+        <Writer>Pete Docter</Writer>
+        <Genre>Animation Adventure Comedy Family Fantasy</Genre>
+        <Release_Date>1995-11-22</Release_Date>
+        <Runtime>81</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M13</Movie_ID>
+        <Title>The Treasure of the Sierra Madre</Title>
+        <Director>John Huston</Director>
+        <Writer>John Huston</Writer>
+        <Writer>B. Traven</Writer>
+        <Genre>Action Adventure Drama</Genre>
+        <Release_Date>1948-01-24</Release_Date>
+        <Runtime>126</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M14</Movie_ID>
+        <Title>Indiana Jones and the Last Crusade</Title>
+        <Director>Steven Spielberg</Director>
+        <Writer>Jeffrey Boam</Writer>
+        <Writer>George Lucas</Writer>
+        <Genre>Action Adventure</Genre>
+        <Release_Date>1995-05-24</Release_Date>
+        <Runtime>127</Runtime>
+    </row>
+    <row>
+        <Movie_ID>M15</Movie_ID>
+        <Title>Some Like It Hot</Title>
+        <Director>Billy Wilder</Director>
+        <Writer>Billy Wilder</Writer>
+        <Writer>I.A.L. Diamond</Writer>
+        <Genre>Comedy</Genre>
+        <Release_Date>1948-03-29</Release_Date>
+        <Runtime>120</Runtime>
+    </row>
+</root>
